@@ -8,7 +8,7 @@ const Landing = () => {
       <Container>
         <Row>
           <Col xs={12}>
-            <div className="hello d-flex justify-content-start">
+            <div className="landingHello d-flex justify-content-start">
               Hi, my name is
             </div>
           </Col>
@@ -30,11 +30,8 @@ const Landing = () => {
               dolor placeat quo animi, pariatur, officiis dicta commodi quidem.
             </div>
           </Col>
-          <Col
-            xs={12}
-            className="landingButtonCol d-flex justify-content-start"
-          >
-            <Button variant="outline-success  ">Success</Button>{" "}
+          <Col xs={12} className=" d-flex justify-content-start">
+            <Button variant="outline-success landingButton ">Success</Button>{" "}
           </Col>
         </Row>
       </Container>
