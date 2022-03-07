@@ -1,10 +1,10 @@
 .landingComp {
-  border: solid;
+  height: 100vh;
   padding-top: 8rem;
 }
-.title {
+.landingTitle {
   font-size: 3rem;
 }
-.para {
+.landingPara {
   font-size: 0.9rem;
 }

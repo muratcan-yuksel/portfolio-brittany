@@ -1,0 +1,8 @@
+.aboutTitle {
+  font-size: 2rem;
+}
+.aboutLine {
+  border: 1px solid rgb(117, 112, 112);
+  height: 2px;
+  width: 30%;
+}
