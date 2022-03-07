@@ -1,9 +1,10 @@
-.hello {
+.landingComp {
   border: solid;
+  padding-top: 8rem;
+}
+.title {
+  font-size: 3rem;
 }
 .para {
-  border: solid;
-}
-.btn {
-  border: solid;
+  font-size: 0.9rem;
 }
