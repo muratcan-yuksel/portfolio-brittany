@@ -1,6 +1,6 @@
 .landingComp {
-  height: 100vh;
-  padding-top: 12rem;
+  min-height: 100vh;
+  padding-top: 15rem;
 }
 .landingHello {
   font-size: 1.1rem;
@@ -12,10 +12,10 @@
   font-size: 1.2rem;
 }
 .landingButton {
-  margin-top: 2rem;
+  margin-top: 3rem;
   color: rgb(28, 172, 112);
   border: 1px solid rgb(28, 172, 112);
-  width: 200px;
-  height: 50px;
+  width: 250px;
+  height: 70px;
   font-size: 1.2rem;
 }
